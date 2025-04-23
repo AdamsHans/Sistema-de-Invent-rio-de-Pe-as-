@@ -83,7 +83,7 @@ Os arquivos gerados são compatíveis com editores como Excel e LibreOffice.
 
 👨‍💻 Autor
 Desenvolvido por Adams Hans Alexssei Costa Monteiro
-📫 Email: adamsmonteiro.com
+📫 Email: adamsmonteiro@hotmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/adamshans/
 
 
